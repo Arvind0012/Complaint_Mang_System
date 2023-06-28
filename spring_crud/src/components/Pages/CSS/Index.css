@@ -1,0 +1,46 @@
+.Index-cont{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 6rem;
+    margin-top: 7rem;   
+}
+.row{
+    display: flex;
+
+}
+img{
+    margin-top: -5.5rem;
+}
+.text1{
+    font-size: 28px;
+    color: #29aced;
+    text-shadow: 0 0 2px #f33030, 0 0 1px #0000FF
+}
+.text2{
+    font-size: 60px;
+    font-weight: 550;
+    margin-left: -3px;
+    color: #29e3ed;
+    text-shadow: 0 0 3px #FF0000, 0 0 4px #0000FF
+}
+.text3{
+    font-size: 43px;
+    text-shadow: 0 0 3px #FF0000, 0 0 3px #9b56f5
+}
+.btn-field{
+    margin-top: 3.5rem;
+}
+/* .registerBtn{
+    font-size: 1.3rem;
+    display: inline-block;
+    color: rgb(28, 26, 26);
+    background: linear-gradient(90deg, #0162c8, #55e7fc);
+    padding: 11px 15px;
+    border-radius: 10px;
+    color: #2389f5;
+    border: 2px solid   #cddcec;
+    margin-right: 2rem;
+
+} */
+/* .registerBtn:hover{
+    cursor: pointer;
+} */
