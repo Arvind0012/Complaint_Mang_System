@@ -1,6 +1,5 @@
 # Complaint_Mang_System
 
-This is a Complaint Management System Portal, Where a user first have to register into this portal and register as many complaints they wish.
-In this project, if a user is not understand how to register a complaint then there is a chatbot provided by the google dialogflow and integrated with Kommunicate.
-From that chatbot a user can chat and register that complaint into this portal.
-In this project, there will be a admin for different department who can assign the complaint to their department in order to resolve the complaints.
+This Complaint Management System Portal offers users the ability to register and submit complaints. Users can easily register by creating an account on the portal and have the option to submit as many complaints as they need. To ensure a seamless user experience, the portal includes a chatbot powered by Google Dialogflow and integrated with Kommunicate. This chatbot serves as a helpful tool for users who may have questions or require assistance with the complaint registration process. Through the chatbot, users can engage in a conversation and conveniently register their complaints directly into the portal.
+
+Furthermore, the portal features an administrative panel that allows department admins to manage and address the registered complaints. Each department admin has the authority to assign complaints to their respective departments, enabling efficient allocation and resolution of the reported issues. This streamlined approach ensures that complaints are directed to the appropriate teams, increasing the effectiveness and timely resolution of each complaint.
